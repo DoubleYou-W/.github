@@ -15,13 +15,13 @@ Our team consisted of 6 Computer Science students. Three of us were master's stu
 
 [comment]: <> (Add a picture of all of us with the winning Cheque)
 
-Liel Amar: https://lielamar.com
+Liel Amar: https://www.lielamar.com
 <br>
-David Busbib: https://www.linkedin.com/in/david-busbib-828a8024a/
+David Busbib: https://www.linkedin.com/in/david-busbib-828a8024a
 <br>
-Nissim Barzilay: https://www.linkedin.com/in/nissim-barzilay-4472b614a/
+Nissim Barzilay: https://www.linkedin.com/in/nissim-barzilay-4472b614a
 <br>
-Issac Labe: https://il.linkedin.com/in/isaac-labe-9ab6942a8/en
+Issac Labe: https://www.linkedin.com/in/isaac-labe-9ab6942a8
 <br>
 Natanael Muller: https://www.linkedin.com/in/natanael-muller-826307298
 <br>
